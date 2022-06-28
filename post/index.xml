@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Healer-AZ</title>
-    <link>https://Healer-AZ.github.io.github.io/post/</link>
+    <link>https://github.com/Healer-AZ/Healer-AZ.github.io.git--buildDrafts/post/</link>
     <description>Recent content in Posts on Healer-AZ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jun 2022 14:23:38 +0800</lastBuildDate><atom:link href="https://Healer-AZ.github.io.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jun 2022 14:23:38 +0800</lastBuildDate><atom:link href="https://github.com/Healer-AZ/Healer-AZ.github.io.git--buildDrafts/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Commit</title>
-      <link>https://Healer-AZ.github.io.github.io/post/title_of_the_post/</link>
+      <link>https://github.com/Healer-AZ/Healer-AZ.github.io.git--buildDrafts/post/title_of_the_post/</link>
       <pubDate>Tue, 28 Jun 2022 14:23:38 +0800</pubDate>
       
-      <guid>https://Healer-AZ.github.io.github.io/post/title_of_the_post/</guid>
+      <guid>https://github.com/Healer-AZ/Healer-AZ.github.io.git--buildDrafts/post/title_of_the_post/</guid>
       <description>OHHHHHHHHHHHHHHHHHHH, It took me some time to build this blog.</description>
     </item>
     
